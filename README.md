@@ -1,4 +1,4 @@
-🛍️ FakeStoreApp
+<!-- 🛍️ FakeStoreApp
 
 A simple and modern React Native shopping app built using the Fake Store API.
 Users can browse products, search by name, view details, and add or remove favorites — all stored locally.
@@ -66,4 +66,4 @@ FakeStore API
 A free REST API for testing and prototyping eCommerce apps.
 
 Example Endpoint: https://fakestoreapi.com/products
-
+ -->
